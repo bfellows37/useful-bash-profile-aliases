@@ -1,0 +1,2 @@
+# get a long directory listing with "ll"
+alias ll="ls -lah"
