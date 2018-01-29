@@ -1,2 +1,5 @@
 # get a long directory listing with "ll"
 alias ll="ls -lah"
+
+# setup xdebug proxy loopback address for phpstorm on osx
+alias xdebugloopback="sudo ifconfig lo0 alias 10.254.254.254"
